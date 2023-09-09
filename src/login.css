@@ -1,0 +1,14 @@
+.login-page {
+  background-image: url("https://www.247hrm.com/wp-content/uploads/2016/07/tech-background-image-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login-form {
+  background-color: rgba(1, 32, 93, 0.6);
+  color: white;
+}
+.policy {
+  font-weight: 200;
+  font-size: 15px;
+  text-align: center;
+}
